@@ -1,0 +1,86 @@
+.container-one {
+  display: grid;
+  grid-template-columns: 200px 300px;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.back-img {
+  width: 250px;
+}
+
+.container-2 {
+  margin-left: 40px;
+  background-color: rgba(187, 255, 0, 0.863);
+  height: 375px;
+  margin-left: 40px;
+}
+.text-1-container {
+  font-family: latin;
+  margin-top: 0px;
+}
+
+.button {
+  margin-top: 7px;
+  width: 183px;
+  height: 35px;
+  background-color: gray;
+  border: none;
+  border-radius: 7px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: aqua;
+}
+
+.button:hover:active {
+  color: white;
+  background-color: black;
+}
+
+.exact-form {
+  width: 175px;
+  height: 30px;
+  border: none;
+  border-radius: 7px;
+}
+
+.right-section {
+  margin-left: 40px;
+  margin-top: 40px;
+}
+
+.talis-food {
+  padding-left: 30px;
+  font-family: fantasy;
+}
+
+.signup {
+  padding-left: 20px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-weight: 400;
+}
+
+.off {
+  padding-left: px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  margin-left: 25px;
+}
+
+.off-container {
+  background-color: aqua;
+  margin-right: 50px;
+  font-size: 35px;
+  border-width: 2px;
+  border-radius: 7px;
+}
+
+.family {
+  text-align: center;
+  padding-right: 30px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 300;
+  margin-top: 20px;
+  font-style: italic;
+}
